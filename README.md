@@ -1,6 +1,3 @@
-This is a Python phishing tool, it may not work in other software, good use.
-
-
 import smtplib
 from email.mime.text import MIMEText
 
@@ -29,3 +26,4 @@ subject = input("Enter the subject of the email: ")
 message = input("Enter the content of the email: ")
 
 send_email(sender_email, sender_password, receiver_email, subject, message)
+just enter the code in python and use :)
